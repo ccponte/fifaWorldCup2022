@@ -14,7 +14,7 @@
 	<name>fifaWorldCup2022</name>
 	<description>Fifa World Cup 2022</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>16</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
